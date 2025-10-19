@@ -178,6 +178,30 @@
 
 ---
 
+## Screenshots
+
+### Theoretical Answers Output
+![Theoretical Answers](screenshots/theoretical_answers.png)
+*Complete output from running theoretical_answers.py showing all Part 1 answers*
+
+### Iris Classification Results
+![Iris Dataset Results](screenshots/iris_results.png)
+*Iris classification accuracy: 88.9%, confusion matrix, and feature importance analysis*
+
+### NLP Analysis Results
+![NLP Analysis](screenshots/nlp_analysis.png)
+*Amazon reviews sentiment analysis and named entity recognition results*
+
+### Ethics Analysis Output
+![Ethics Analysis](screenshots/ethics_analysis.png)
+*Bias identification and mitigation strategies for AI models*
+
+### Streamlit Web App
+![Streamlit App](screenshots/streamlit_app.png)
+*Interactive web interface showing real-time model predictions*
+
+---
+
 ## Part 2: Practical Implementation
 
 ### Task 1: Classical ML with Scikit-learn (Iris Dataset)
