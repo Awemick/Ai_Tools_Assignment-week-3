@@ -1,0 +1,6 @@
+review,cleaned_review,tokens,sentiment
+I love this product! It’s absolutely amazing.,i love this product it’s absolutely amazing,"['love', 'product', 'absolutely', 'amazing']",Positive
+Terrible experience 😡. Would not recommend!,terrible experience 😡 would not recommend,"['terrible', 'experience', 'would', 'recommend']",Negative
+"Average quality, could be better.",average quality could be better,"['average', 'quality', 'could', 'better']",Neutral
+Best purchase I’ve made this year ❤️,best purchase i’ve made this year ❤️,"['best', 'purchase', 'made', 'year']",Positive
+Not worth the price at all...,not worth the price at all,"['worth', 'price']",Neutral

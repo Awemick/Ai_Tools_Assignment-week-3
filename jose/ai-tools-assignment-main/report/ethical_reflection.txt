@@ -1,0 +1,22 @@
+Ethical Reflection — AI Tools Assignment
+
+Potential Biases:
+
+In the MNIST digit classification model, biases may arise if certain digits are overrepresented, leading to unequal accuracy across classes.
+
+In the Amazon Reviews text analysis, sentiment models like TextBlob may interpret slang, emojis, or sarcasm incorrectly, misrepresenting user emotions.
+
+Language models can also carry cultural and linguistic biases from their training data.
+
+Mitigation Strategies:
+
+Tools like TensorFlow Fairness Indicators can be used to detect accuracy differences across data subsets.
+
+Using balanced datasets ensures fair representation of all categories.
+
+In NLP tasks, rule-based systems (like spaCy patterns) or fine-tuning on diverse local datasets can reduce bias and improve fairness.
+
+Regular bias testing and human review improve ethical compliance and model accountability.
+
+Ethical Importance:
+Ethical AI ensures that automated systems are fair, transparent, and trustworthy. Developers must prioritize inclusivity and responsibility to prevent harm from algorithmic decisions.
