@@ -1,7 +1,0 @@
-nltk
-pandas
-matplotlib
-textblob
-spacy
-scikit-learn
-wordcloud
